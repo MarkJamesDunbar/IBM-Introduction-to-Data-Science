@@ -5,8 +5,9 @@ https://www.linkedin.com/pulse/battle-boroughs-data-driven-look-londons-favourit
 
 ## Machine Learning Capstone Project:
     London - one of the busiest cities in Europe - attracts a large number of tourists and students, 
-    not least due to its vibrant city life and diverse culture. One of the many challenges visitors face can be finding the right place 
-    to eat - be it for dietary/religious reasons, or simply personal preference.
+    not least due to its vibrant city life and diverse culture. One of the many challenges visitors 
+    face can be finding the right place to eat - be it for dietary/religious reasons, or simply personal 
+    preference.
 
     Through this project I want to be able to provide a simple guide for visitors in London: 
     o In what parts of the city are you likely to find your desired restaurant? 
