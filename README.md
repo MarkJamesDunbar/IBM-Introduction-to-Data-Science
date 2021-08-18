@@ -1,6 +1,7 @@
 # IBM Professional Data Science
 
 Check out my LinkedIn article on this project here:
+
 https://www.linkedin.com/pulse/battle-boroughs-data-driven-look-londons-favourite-mark-dunbar/
 
 ## Machine Learning Capstone Project:
