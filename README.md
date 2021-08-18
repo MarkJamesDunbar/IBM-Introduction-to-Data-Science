@@ -18,7 +18,7 @@ https://www.linkedin.com/pulse/battle-boroughs-data-driven-look-londons-favourit
     This project will ultimately take a look at how we can use Python, pandas, webscraping and some machine 
     learning tools to take a look at what various City of London Boroughs have to offer.
 
-## IBM Data Science Mini-Projects
+## IBM Data Science Projects
 IBM Data Science Notebooks covering:
 
     o	Introduction to Data Science
